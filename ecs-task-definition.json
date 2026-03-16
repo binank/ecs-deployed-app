@@ -5,7 +5,6 @@
   "cpu": "256",
   "memory": "512",
   "executionRoleArn": "arn:aws:iam::294069346242:role/ecsTaskExecutionRole",
-  "taskRoleArn": "arn:aws:iam::294069346242:role/ecsTaskRole",
   "containerDefinitions": [
     {
       "name": "my-node-app",
